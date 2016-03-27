@@ -1,6 +1,6 @@
 # TODO: Add comment
 # 
-# Author: pacha
+# Author: Agouveia
 ###############################################################################
 
 setwd("/Users/pacha/Dropbox/R/ExData_Plotting1")
